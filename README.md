@@ -1,4 +1,4 @@
-<h1 align="center">About Me</h1>
+<h1 >About Me</h1>
 <P>Hello evertone, my name is Ruth Musungu an aspiring backend developer from Nairobi,Kenya. I am currently taking a backend development course offered by ALX Africa.</P>
 
 <h3 align="left">Languages and Tools:</h3>
