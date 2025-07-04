@@ -1,5 +1,5 @@
 <h1 >About Me</h1>
-<P>Hi 👋, I'm Ruth Ambogo — a Backend Developer with a Curious Mind
+<P>Hi 👋, I'm Ruth Ambogo Musungu, a Backend Developer with a Curious Mind
 Welcome to my GitHub profile!
 I'm passionate about creating, coding, and solving real-world problems using the skills I've gained over the years. I love turning ideas into functional, efficient solutions and continuously learning new technologies to grow as a developer</P>
 
