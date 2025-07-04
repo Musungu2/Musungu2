@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ruth Ambogo
 
 ## 💻 Backend Developer | Problem Solver | Curious Learner
-![My Project Logo](https://www.freepik.com/free-vector/hand-coding-concept-illustration_21864184.htm#fromView=search&page=1&position=7&uuid=7773c66b-6484-4d6c-8186-0261c7c1c7d6&query=code)
 
 Welcome to my GitHub profile!
 
