@@ -21,7 +21,6 @@ I'm Ruth, a backend developer with a passion for building scalable, efficient, a
 ### 🌱 Currently Learning
 
 - DevOps tools (CI/CD, Docker, Nginx)
-- Advanced system design
 - Cloud technologies (AWS, DigitalOcean)
 
 ---
@@ -32,7 +31,6 @@ I'm Ruth, a backend developer with a passion for building scalable, efficient, a
 - 🔐 **[Project Name]** — Brief description of your role or goal  
 - 🧠 **[Project Name]** — Brief description of tech/tools used  
 
-*(Replace these with actual links to your GitHub projects)*
 
 ---
 
@@ -44,4 +42,4 @@ I'm Ruth, a backend developer with a passion for building scalable, efficient, a
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-Thanks for stopping by! Feel free to explore my repositories 🚀
+Thanks for stopping by! Feel free to explore my repositories 
