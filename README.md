@@ -1,8 +1,47 @@
-<h1 >About Me</h1>
-<P>Hi 👋, I'm Ruth Ambogo Musungu, a Backend Developer with a Curious Mind
+# 👋 Hi, I'm Ruth Ambogo
+
+## 💻 Backend Developer | Problem Solver | Curious Learner
+
 Welcome to my GitHub profile!
-I'm passionate about creating, coding, and solving real-world problems using the skills I've gained over the years. I love turning ideas into functional, efficient solutions and continuously learning new technologies to grow as a developer</P>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm Ruth, a backend developer with a passion for building scalable, efficient, and meaningful solutions. I enjoy turning complex problems into clean, maintainable code and continuously exploring new technologies that help improve my craft.
 
+---
+
+### 🔧 Tech Stack
+
+- **Languages**: Python, JavaScript, Bash
+- **Frameworks**: Flask, Express.js
+- **Databases**: MySQL, PostgreSQL, SQLite
+- **Tools**: Git, GitHub, Postman, Docker, VS Code
+- **Others**: REST APIs, Linux, JSON, SQLAlchemy
+
+---
+
+### 🌱 Currently Learning
+
+- DevOps tools (CI/CD, Docker, Nginx)
+- Advanced system design
+- Cloud technologies (AWS, DigitalOcean)
+
+---
+
+### 📌 Featured Projects
+
+- 🎯 **[Project Name]** — Brief description of what it does  
+- 🔐 **[Project Name]** — Brief description of your role or goal  
+- 🧠 **[Project Name]** — Brief description of tech/tools used  
+
+*(Replace these with actual links to your GitHub projects)*
+
+---
+
+### 📫 Let's Connect
+
+- Email: [ruthambogo.ra@gmail.com]
+- LinkedIn: [linkedin.com/in/ambogo-musungu]((https://www.linkedin.com/in/ambogo-musungu/)
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! Feel free to explore my repositories 🚀
