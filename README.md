@@ -37,9 +37,9 @@ I'm Ruth, a backend developer with a passion for building scalable, efficient, a
 ---
 
 ### 📫 Let's Connect
+- Email: ruthambogo.ra@gmail.com  
+- LinkedIn: [linkedin.com/in/ambogo-musungu](https://www.linkedin.com/in/ambogo-musungu/)
 
-- Email: [ruthambogo.ra@gmail.com]
-- LinkedIn: [linkedin.com/in/ambogo-musungu]((https://www.linkedin.com/in/ambogo-musungu/)
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
