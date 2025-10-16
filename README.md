@@ -23,16 +23,7 @@ I'm Ruth, a backend developer with a passion for building scalable, efficient, a
 - DevOps tools (CI/CD, Docker, Nginx)
 - Cloud technologies (AWS, DigitalOcean)
 
----
 
-### 📌 Featured Projects
-
-- 🎯 **[Project Name]** — Brief description of what it does  
-- 🔐 **[Project Name]** — Brief description of your role or goal  
-- 🧠 **[Project Name]** — Brief description of tech/tools used  
-
-
----
 
 ### 📫 Let's Connect
 - Email: ruthambogo.ra@gmail.com  
