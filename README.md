@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruth Ambogo
 
-## 💻 Backend Developer | Problem Solver | Curious Learner
+## 💻 Backend Developer | Specializing in Nodejs, Expressjs, Flask and Django Open to new opportunities
 
 Welcome to my GitHub profile!
 
