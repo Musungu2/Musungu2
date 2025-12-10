@@ -11,7 +11,7 @@ I'm Ruth, a backend developer with a passion for building scalable, efficient, a
 ### 🔧 Tech Stack
 
 - **Languages**: Python, JavaScript, Bash
-- **Frameworks**: Flask, Express.js
+- **Frameworks**: Flask, Express.js, NodeJs, Django
 - **Databases**: MySQL, PostgreSQL, SQLite
 - **Tools**: Git, GitHub, Postman, Docker, VS Code
 - **Others**: REST APIs, Linux, JSON, SQLAlchemy
