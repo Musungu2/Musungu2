@@ -3,7 +3,7 @@
 ## 💻 Backend Developer | Data Analyst, Data science & AI Specialist
 
 Welcome to my GitHub profile!
-Welcome to my GitHub profile! I love building backend applications, analyzing data, and exploring AI solutions to real-world problems.  
+I love building backend applications, analyzing data, and exploring AI solutions to real-world problems.  
 
 ---
 
