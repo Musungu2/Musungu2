@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Ruth Ambogo
 
-## 💻 Backend Developer | Specializing in Nodejs, Expressjs, Flask and Django Open to new opportunities
+## 💻 Backend Developer | Data Analyst, Data science & AI Specialist
 
 Welcome to my GitHub profile!
-
-I'm Ruth, a backend developer with a passion for building scalable, efficient, and meaningful solutions. I enjoy turning complex problems into clean, maintainable code and continuously exploring new technologies that help improve my craft.
+Welcome to my GitHub profile! I love building backend applications, analyzing data, and exploring AI solutions to real-world problems.  
 
 ---
 
@@ -13,15 +12,14 @@ I'm Ruth, a backend developer with a passion for building scalable, efficient, a
 - **Languages**: Python, JavaScript, Bash
 - **Frameworks**: Flask, Express.js, NodeJs, Django
 - **Databases**: MySQL, PostgreSQL, SQLite
-- **Tools**: Git, GitHub, Postman, Docker, VS Code
+- **Tools**: Excel, PowerBI, Dbeaver, Git, GitHub
 - **Others**: REST APIs, Linux, JSON, SQLAlchemy
 
 ---
 
 ### 🌱 Currently Learning
-
-- DevOps tools (CI/CD, Docker, Nginx)
-- Cloud technologies (AWS, DigitalOcean)
+- Advanced SQL & Query Optimization
+- Machine learning
 
 
 
